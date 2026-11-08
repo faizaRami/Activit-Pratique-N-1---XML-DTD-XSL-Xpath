@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <meta>
+        <filters directoryPatterns="" filePatterns="\Qmeteo.xpr\E" positiveFilePatterns="" showHiddenFiles="false"/>
+        <options/>
+    </meta>
+    <projectTree name="meteo.xpr">
+        <folder path="."/>
+        <file name="../../../../../../Documents/OxygenXMLEditor/samples/meteo.dtd"/>
+        <file name="meteo.xml"/>
+        <file name="meteo.xsd"/>
+        <file name="meteo_html.xsl"/>
+        <file name="meteo_svg.xsl"/>
+        <file name="meteo_xsd.xml"/>
+    </projectTree>
+</project>
