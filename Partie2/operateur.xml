@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE operateur SYSTEM "operateur.dtd">
+<operateur>
+    <client code="c1" nom="Mohamed">
+        <abonnement numero="111" dateAb="2012-06-11" type="GSM">
+            <facture num="321" dateFact="2012-07-11" montant="4300" reglee="NON"/>
+            <facture num="235" dateFact="2012-11-11" montant="1200" reglee="OUI"/>
+            <facture num="987" dateFact="2012-12-11" montant="3200" reglee="OUI"/>
+        </abonnement>
+        <abonnement numero="444" dateAb="2012-11-18" type="FO">
+            <facture num="125" dateFact="2012-11-11" montant="3600" reglee="OUI"/>
+            <facture num="230" dateFact="2012-11-11" montant="2300" reglee="OUI"/>
+        </abonnement>
+    </client>
+    <client code="C2" nom="Imane">
+        <abonnement numero="666" dateAb="2012-06-11" type="GSM">
+            <facture num="555" dateFact="2012-07-11" montant="1200" reglee="OUI"/>
+            <facture num="2222" dateFact="2012-12-11" montant="8700" reglee="OUI"/>
+        </abonnement>
+        <abonnement numero="77" dateAb="2012-11-18" type="FO">
+            <facture num="654" dateFact="2012-11-11" montant="876" reglee="OUI"/>
+            <facture num="888" dateFact="2012-11-11" montant="300" reglee="OUI"/>        </abonnement>
+    </client>
+</operateur>

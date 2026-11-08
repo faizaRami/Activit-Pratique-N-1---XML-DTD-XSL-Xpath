@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE biblio SYSTEM "biblio.dtd">
+
+<?xml-stylesheet type="text/xsl" href="biblio.xsl"?>
+
+<biblio>
+    
+    <etudiant code="E1" nom="Ismaai" prenom="Ahmed" age="25">
+        <livre id="L1" titre="XML" dateEmprunt="2011-11-2022" rendu="oui"/>
+        <livre id="L2" titre="Java" dateEmprunt="2011-11-2022" rendu="non"/>
+    </etudiant>
+    
+    <etudiant code="E2" nom="Yasmine" prenom="Hasnaa" age="22">
+        <livre id="L1" titre="XML" dateEmprunt="2011-12-2022" rendu="oui"/>
+        <livre id="L3" titre="Oracle" dateEmprunt="2011-11-2022" rendu="oui"/>
+    </etudiant>
+    
+</biblio>
